@@ -1,0 +1,517 @@
+@NAME,@DATEVALIDATED,@UNIQUEIDENTIFIER,@RESOLVED,@TEMPLATE,@WHENCREATED,@DATERESOLVED,@TYPE,@WHENUPDATED,@DESCRIPTION,@EXPORTFLAG,@VALIDATED,@CWAVERAGERATING,@CWTOTALCOMMENT,RCWHOCREATEDTOUSER@WHOCREATED,RCWHOOWNSTOUSER@WHOOWNS,RCWHOUPDATEDTOUSER@WHOUPDATED,RCWHOCREATEDTOUSER@UNIQUEIDENTIFIER,RCWHOOWNSTOUSER@UNIQUEIDENTIFIER,RCWHOUPDATEDTOUSER@UNIQUEIDENTIFIER
+Application Framework 13.0 Addition,1899-12-30T00:00:00,01091ae79d4811e2a9150026b9bf6441,0,0,2013-04-04T10:52:15,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-04-04T10:52:15,,0,0,0.0,0.0,8,8,8,,,
+Application Framework 13.5 Modification,1899-12-30T00:00:00,01a9b1262ba611e397730220e3370c01,0,0,2013-10-02T15:02:50,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2013-10-02T15:02:50,,0,0,0.0,0.0,8,8,8,,,
+Business Process Framework 15.0 Modification,1899-12-30T00:00:00,03292428009511e5aa85002590713bc0,0,0,2015-05-22T09:12:52,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:15:12,,0,0,0.0,0.0,32,32,8,,,
+Information Framework 15.0 Addition,1899-12-30T00:00:00,038749df66e311e5bf18002590713bc0,0,0,2015-09-29T13:48:12,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:36,,0,0,0.0,0.0,32,32,8,,,
+Application Framework Modification,1899-12-30T00:00:00,0444022fdb9211e780d0000d3a02ed0d,0,0,2017-12-07T21:03:05,1899-12-30T00:00:00,fb46f720db9111e780d0000d3a02ed0d,2017-12-07T21:03:05,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Evaluate Value,1899-12-30T00:00:00,0550856e0c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:48,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:16,"Whenever a customer purchases a product/service he has a perception about the value he will receive out of it. During the time he is consuming the services, the customer is bound to evaluate value and confirm the perception or change it.",0,0,0.0,0.0,6,6,6,,,
+Information Framework 13.0 Deletion,1899-12-30T00:00:00,0633ee41e33a11e2be9650b7c3954f49,0,0,2013-07-02T11:08:35,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-07-02T11:08:35,,0,0,0.0,0.0,6,6,6,,,
+is this hierarchy correct?,1899-12-30T00:00:00,08e64e2578d111ea80ee000d3a02ed0d,0,0,2020-04-07T13:09:39,1899-12-30T00:00:00,,2020-04-07T13:09:45,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Application Framework 13.0 Deletion,1899-12-30T00:00:00,0a94063c9d4811e2a9150026b9bf6441,-1,0,2013-04-04T10:52:31,2013-04-04T12:52:32,4a2d4f0980ae11e2b493984be1bad6a0,2013-04-04T10:52:31,,0,0,0.0,0.0,8,8,8,,,
+Get Help,1899-12-30T00:00:00,0bf63a140c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:00,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:38,"There are times when the customer would have interruptions in regular working of his service and would be interacting with the CSP, via either of the channels available for him, to diagnose the service for better or proper functioning.",0,0,0.0,0.0,6,6,6,,,
+Request to Resolve,1899-12-30T00:00:00,0bf63a150c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:04,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:58,"If the diagnosis has not resulted in a resolution, the customer will be raising a request or a ticket with the CSP to request help for resolution. These interactions are considered part of the request to resolve sub phase of the customer's journey.",0,0,0.0,0.0,6,6,6,,,
+Receive Notification,1899-12-30T00:00:00,0bf63a160c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:09,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:30,The CSP will be reaching out to the customer at periodic times to notify him/her about his/her balance and a payment request notification. The notification can also be post the payment has been received by the customer confirming the same.,0,0,0.0,0.0,6,6,6,,,
+Service Specification Management,1899-12-30T00:00:00,0dcc295a3aeb11e0a702002564cb911c,0,0,2011-02-17T18:10:05,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:07:26,"Change name to Service Catalog Management 
+Updated Overview",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 13.5 Addition,1899-12-30T00:00:00,0e4850a42ba611e397730220e3370c01,0,0,2013-10-02T15:03:11,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2013-10-02T15:03:11,,0,0,0.0,0.0,8,8,8,,,
+Information Framework 13.5 Deletion,1899-12-30T00:00:00,0e5b5290a46811e3810f6817294aebff,0,0,2014-03-05T07:13:41,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2014-03-05T07:13:41,,0,0,0.0,0.0,32,32,32,,,
+Application Framework 13.0 Modification,1899-12-30T00:00:00,124e49739d4811e2a9150026b9bf6441,0,0,2013-04-04T10:52:44,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-04-04T10:52:44,,0,0,0.0,0.0,8,8,8,,,
+Workforce Management L1,1899-12-30T00:00:00,125e35260e1f11e0bc42002564cb911c,0,0,2010-12-22T17:59:05,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:06:48,"Workforce Management
+
+This contribution should be a L1 in the Resource X Operations Support & Readiness and should replace the Workforce Management L2 under Resource Process Management.",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Operate Digital Services,1899-12-30T00:00:00,12a9836c37f311e3becc9c9341769232,0,0,2013-10-18T06:44:38,1899-12-30T00:00:00,6249e33534bb11e3bec1b72eb0d0e42f,2013-10-18T06:44:38,,0,0,0.0,0.0,6,6,6,,,
+Verify or Dispute,1899-12-30T00:00:00,12d0cec40c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:11,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:56:45,"Upon receiving a notification the customer will verify the charges applied to his subscription. This could be confirmed by him or alternatively, he/she may dispute the charges with the CSP.",0,0,0.0,0.0,6,6,6,,,
+Topup/Pay,1899-12-30T00:00:00,12d0cec50c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:13,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:56:27,"The Topup/Pay sub phase of the lifecycle is when the customer is making payment for the services he has availed or in some cases, paying in advance for charges he is going to avail to the CSP. The Topup/Pay interactions could be via a variety of modes and channels depending upon what is available for him/her.",0,0,0.0,0.0,6,6,6,,,
+Enhance Selection,1899-12-30T00:00:00,12d0cec60c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:16,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:07,"Enhance selection - During the renew phase of the lifecycle, the customer will be making changes to his service and selection based on his/her past experience or others experiences.",0,0,0.0,0.0,6,6,6,,,
+Renew Contract,1899-12-30T00:00:00,12d0cec70c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:20,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:44,"Once the selection has been confirmed by the customer, he/she will recontract the services/products with the CSP for a subsequent tenure. This could be dependent upon the kind of service and payment type selected by the customer.",0,0,0.0,0.0,6,6,6,,,
+Information Framework 12.5 Addition,1899-12-30T00:00:00,140929f52eec11e2b38e984be1bad6a0,0,0,2012-11-17T00:09:59,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-03-05T03:03:57,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 13.5 Deletion,1899-12-30T00:00:00,1530c1d92ba611e397730220e3370c01,0,0,2013-10-02T15:03:23,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2013-10-02T15:03:23,,0,0,0.0,0.0,8,8,8,,,
+check me,1899-12-30T00:00:00,159caf0c520311ec8107000d3a02ed0d,0,0,2021-11-30T17:29:35,1899-12-30T00:00:00,,2021-11-30T17:29:40,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Metrics 13.0 Modification,1899-12-30T00:00:00,1aa1fa4080b111e2b492984be1bad6a0,0,0,2013-02-27T05:21:31,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-02-27T06:04:40,,0,0,0.0,0.0,6,6,6,,,
+Refer Product/Service,1899-12-30T00:00:00,1b11f43e0c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:25,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:38,"Depending upon his/her personal experience the customer is bound to refer the CSP positively or negatively to his circle of inluence. Considering the impact of social media in our lives today, this is a critical part of the customer's lifecycle which should be understood and managed by CSP's.",0,0,0.0,0.0,6,6,6,,,
+Gain Loyalty,1899-12-30T00:00:00,1b11f43f0c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:27,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:30,Depending upon the tenure and/or revenue contribution to a CSP the customer will gain loyalty with a CSP. The loyalty could either be in monetary terms or in non-monetary terms (such as preferential queues in stores etc.),0,0,0.0,0.0,6,6,6,,,
+Feedback,1899-12-30T00:00:00,1b11f4400c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:30,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:22,"When a customer makes a decision to leave a service provider, he/she will usually explicitly or implicity provide feedback. The feedback can be usually captured at various phases and interactions with the customer, however this specific sub phase is usually entaining at the time of termination of the service.",0,0,0.0,0.0,6,6,6,,,
+Discontinue,1899-12-30T00:00:00,1b11f4410c0e11e3beaae4ef44b5706d,0,0,2013-08-23T10:07:32,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:00,The discontinue subphase confirms the cancellation of the service and subscription of the customer with the CSP.,0,0,0.0,0.0,6,6,6,,,
+Application Framework 12.5 Addition,1899-12-30T00:00:00,1b95aa0416da11e2b75d002564cb911c,0,0,2012-10-15T09:08:03,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-05-01T08:55:10,"1. Customer Information Management, including decomposition and diagram
+2. Customer Loyalty Management, including decomposition and diagram.
+3. The implied removal of Customer Contact, Retention & Loyalty per #1 and 2 above
+4. For the moment, I left a number of now ""deleted"" objects - presently on the Customer Retention Management diagram - namely
+ a. Verify Customer Relationship
+ b. Analyze and Manage Customer Risk
+ c. Interaction Management
+ d. Personalize Customer Profile
+ e. Build Customer Insight
+ I think you mark these as deleted???
+5. Revenue Assurance Management, including decomposition and diagram
+6. Sales & Marketing Updates (some text changes - no diagram or object level changes).",0,0,0.0,0.0,8,8,6,,,
+Business Process Framework 21.5 Deletion,1899-12-30T00:00:00,1c1b1c024c9a11ec8107000d3a02ed0d,0,0,2021-11-23T20:15:33,1899-12-30T00:00:00,08f35e9f4c9a11ec8107000d3a02ed0d,2021-11-23T20:15:47,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+SingleView Accelerate V8.0,1899-12-30T00:00:00,21ee187251ea11e38362f81a67018365,0,0,2013-11-20T07:46:19,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-03-17T05:13:39,"Company Name CSG International
+Certification Type Product
+Product Name Singleview Accelerate 8 
+Product Version 8
+Product Description ""Singleview Accelerate 8 is CSG’s latest solution offering in the Integrated Revenue and Customer Management space and consists of:
+• A globally renowned and proven core product that ticks all the boxes in terms of architectural excellence.
+• A set of rich, pre-defined business capabilities across an extensive footprint of functional domains.
+• An integration infrastructure that allows these capabilities to be exploited to the full.
+• Comprehensive supporting collateral that is fully aligned with TMF Frameworx standards.
+""
+Company Website http://www.csgi.com/
+Product Website http://www.csgi.com/
+Product Contacts Giorgio.Pagano@csgi.com, Michael.Jacob@csgi.com
+Frameworx Version 12.5
+Product Summary Results http://www.tmforum.org/CSGInternationalSingleview/15767/home.html
+eTOM WEB Results http://www.tmforum.org/CSGBusinessProcess/15768/home.html
+SID WEB Results http://www.tmforum.org/CSGInformationFramework/15833/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?linkid=53893&docid=21015",0,0,0.0,0.0,32,32,32,,,
+Rename to Customer Order Tracking &lifecycle Management,1899-12-30T00:00:00,260a5d1b7f0211ea80ee000d3a02ed0d,0,0,2020-04-15T10:16:20,1899-12-30T00:00:00,,2020-04-15T10:17:40,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,ATALMOR
+Business Process Framework 12.5 Addition,1899-12-30T00:00:00,276787b52f9811e28b53002564cb911c,0,0,2012-11-15T20:48:00,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-05-01T08:55:10,,0,0,0.0,0.0,8,8,6,,,
+Business Process Framework 12.0 Deletion,1899-12-30T00:00:00,27b0acd97e0711e1a8e8002564cb911c,0,0,2012-04-03T23:35:00,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:17:53,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 13.0 Deletion,1899-12-30T00:00:00,29cc2ff0ad4711e29e870026b9bf6441,0,0,2013-04-24T19:26:27,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-04-24T19:26:27,,0,0,0.0,0.0,8,8,8,,,
+Information Framework 16.0 Deletion,1899-12-30T00:00:00,2c851f1d3a1811e6bf18002590713bc0,0,0,2016-06-24T08:30:19,1899-12-30T00:00:00,39eea1812bf611e6bf18002590713bc0,2016-08-09T20:35:50,,0,0,0.0,0.0,32,32,8,,,
+eHealth View,1899-12-30T00:00:00,2e87019c34c411e3bec1b72eb0d0e42f,0,0,2013-10-14T05:31:48,1899-12-30T00:00:00,6249e33534bb11e3bec1b72eb0d0e42f,2013-10-14T06:18:31,,0,0,0.0,0.0,6,6,6,,,
+Application Framework 21.0 Modification,1899-12-30T00:00:00,2ec039b3b3cc11eb80ff000d3a02ed0d,0,0,2021-05-13T09:18:31,1899-12-30T00:00:00,,2021-05-13T09:18:31,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,ATALMOR
+Application Framework 16.5 Modification,1899-12-30T00:00:00,307c6788a76811e6bf18002590713bc0,0,0,2016-11-10T11:07:42,1899-12-30T00:00:00,4640150ba5d511e6bf18002590713bc0,2016-11-10T13:54:44,,0,0,0.0,0.0,32,32,8,,,
+Business Process Framework 12.0 Modification,1899-12-30T00:00:00,3094d26c687111e1a5f7002564cb911c,0,0,2012-03-07T11:18:36,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:18:08,eTOM 12.0 = eTOM 9.5,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Frameworx Domain 12.0 Deleted,1899-12-30T00:00:00,30bc41b3991011e1a523002564cb911c,0,0,2012-05-08T09:17:47,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-05-01T08:59:22,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 15.5 Modification,1899-12-30T00:00:00,32efec719e5f11e5bf18002590713bc0,0,0,2015-12-09T04:25:43,1899-12-30T00:00:00,dc7b96089e7211e5bf18002590713bc0,2016-01-27T21:22:15,,0,0,0.0,0.0,32,32,8,,,
+Business Process Framework 15.5 Addtion,1899-12-30T00:00:00,32efec769e5f11e5bf18002590713bc0,0,0,2015-12-09T04:25:43,1899-12-30T00:00:00,dc7b96089e7211e5bf18002590713bc0,2016-01-27T21:22:08,,0,0,0.0,0.0,32,32,8,,,
+Implement Digital Services,1899-12-30T00:00:00,338f4ef037f311e3becc9c9341769232,0,0,2013-10-18T06:45:33,1899-12-30T00:00:00,6249e33534bb11e3bec1b72eb0d0e42f,2013-10-18T06:46:14,,0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 15.0 Addition,1899-12-30T00:00:00,3579404a009411e5aa85002590713bc0,0,0,2015-05-22T09:07:07,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:01,,0,0,0.0,0.0,32,32,8,,,
+Information Framework 15.0 Deletion,1899-12-30T00:00:00,37685afd6da511e5bf18002590713bc0,0,0,2015-10-08T04:13:28,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:42,,0,0,0.0,0.0,32,32,8,,,
+Charge Calculation and Balance Management (5.19),1899-12-30T00:00:00,38a276ec53f711e0b70d002564cb911c,0,0,2011-03-21T16:10:10,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:08:56,"Charge Calculation and Balance Management (aka Combined Charging) is a L1 in the Customer X Billing domain, replacing Online Charging and Product/Service Rating.",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Service Level Agreement Management - Deleted (6.4),1899-12-30T00:00:00,39b575f353e411e0b70d002564cb911c,0,0,2011-03-21T13:54:12,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:09:18,"Replaced by Customer SLA Management
+
+Customer SLA Management
+This contribution replaces Customer Quality of Service & Service Level Agreement Management and Service Level Agreement Management, and is to be placed in the Customer Management X Assurance domain.
+
+
+Deleted in 4.5",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 13.5 Modification,1899-12-30T00:00:00,39b71d722ba611e397730220e3370c01,0,0,2013-10-02T15:04:24,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2013-10-02T15:04:24,,0,0,0.0,0.0,8,8,8,,,
+Business Process Framework 16.0 Deletion,1899-12-30T00:00:00,39eea1822bf611e6bf18002590713bc0,0,0,2016-06-06T08:52:10,1899-12-30T00:00:00,39eea1812bf611e6bf18002590713bc0,2016-06-06T08:52:10,,0,0,0.0,0.0,8,8,8,,,
+Comverse ONE V3.5,1899-12-30T00:00:00,3b3d6989c6c911e3b45c6817294aebff,0,0,2014-04-18T01:14:52,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:58:22,"Company Name Comverse
+Certification Type Product
+Product Name Comverse ONE® Billing & Active Customer Management
+Product Version 3.5
+Product Description ""A production-ready, carrier-class software application, the Comverse ONE® Billing & Active Customer Management solution enables comprehensive monetization for any payment type (prepaid, postpaid or hybrid) on any type of network (mobile, fixed, cable or satellite).
+Covering functionality from the network (real-time charging) to the customer (customer management, order management and service fulfillment) to the bank (invoicing, collection, top-up), this solution answers today’s challenge for operators to rapidly design, configure and introduce new multi-play service bundles across multiple channels and offer customers a choice of payment types. Real-time, targeted promotions enhance customer loyalty and reduce churn. Operators can remove the cost and complexity of multiple legacy systems and increase operational efficiency with a single solution.
+Certification Results:
+http://www.tmforum.org/ComverseONEBilling/14883/home.html""
+Company Website http://comverse.com/
+Product Website http://www.comverse.com/products/comverse-bss/comverse-one-converged-billing-active-customer-management
+Product Contacts Meri.Christenson@comverse.com, David.Policar@comverse.com
+Frameworx Version 12.0
+Summary WEB Results http://www.tmforum.org/ComverseONEBilling/14883/home.html
+eTOM WEB Results http://www.tmforum.org/ComverseONEBusiness/14884/home.html
+SID WEB Results N/A
+Certification Report: http://www.tmforum.org/browse.aspx?linkid=51980&docid=19761",0,0,0.0,0.0,32,32,32,,,
+Information Framework 15.5 Addition,1899-12-30T00:00:00,3c0eccbd9e6211e5bf18002590713bc0,0,0,2015-12-09T04:47:27,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:54,,0,0,0.0,0.0,32,32,8,,,
+NetVision V3.7,1899-12-30T00:00:00,3c7a3e6651f211e38362f81a67018365,0,0,2013-11-20T08:44:26,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-05-01T07:07:54,"Company Name       ISPM
+Certification Type    Product
+Product Name        NetVision
+Product Version       V3.7
+Product Description               ""NetVision, from ISPM, is a complete range of OSS service assurance solutions delivering superior customer experience and SLA compliance. 
+It is a modular solution, tailored to the needs of Communication Service Providers (CSPs) and IT managers. Users can select individual models or choose to deploy the complete solution. It integrates seamlessly with legacy tools, providing a cost-effective upgrade to deliver full visibility and control of network events and operations.
+NetVision is designed to provide a comprehensive solution for the over-the-top management of ICT services, based on compliance to eTOM and ITIL standards.
+It is a complete software platform optimised for the management of telecommunications, networks and IT services. NetVision delivers superior service assurance by the presentation of clear and accurate information about performance, capacity, availability and service delivery.
+It’s a real-time world and customers demand proactive support, management and optimisation. With NetVision, you can achieve outstanding customer experience, while reducing costs and creating new revenue opportunities.
+""
+Company Website  http://www.ispm.com/
+Product Website      http://www.ispm.com/service-level-management/netvision-etom-and-itil-service-assurance-management
+Product Contacts     Bruno Musa <bruno.musa@ispm.com.br>, Alvaro Martins <alvaro.martins@ispm.com.br>, Washington Tavares <washington.tavares@ispm.com>
+Frameworx Version                 12
+Summary WEB Results           http://www.tmforum.org/ISPMServicosdeInformatica/14632/home.html
+eTOM WEB Results                http://www.tmforum.org/ISPMNetVisionV37/14633/home.html
+SID Web Results http://www.tmforum.org/ISPMNetVisionV37/14636/home.html
+Certification Report:              http://www.tmforum.org/browse.aspx?linkid=51475&docid=19364",0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 21.5 Addition,1899-12-30T00:00:00,3e439f2e4c7b11ec8107000d3a02ed0d,0,0,2021-11-23T16:34:36,1899-12-30T00:00:00,08f35e9f4c9a11ec8107000d3a02ed0d,2022-01-12T20:53:16,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Business Process Framework 21.5 Modification,1899-12-30T00:00:00,3e439fa44c7b11ec8107000d3a02ed0d,0,0,2021-11-23T16:34:43,1899-12-30T00:00:00,08f35e9f4c9a11ec8107000d3a02ed0d,2022-01-12T20:52:38,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Manage Profile/Service,1899-12-30T00:00:00,400ec63f0f5011e3beaae4ef44b5706d,0,0,2013-08-27T13:38:29,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T06:49:15,"During the tenure of his service with the CSP, the customer will have interactions to manage his profile and service. This includes interactions such as managing is contact information with the CSP, upgrading/downgrading his service and enhancing the service during the course of the tenure by adding certain value added services.",0,0,0.0,0.0,6,6,6,,,
+Application Framework 4.5 Deletion,1899-12-30T00:00:00,41369d87540411e0b70d002564cb911c,0,0,2011-03-21T17:43:28,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-04-30T03:23:38,"Quotation Engine (5.15.6)
+Deleted in 4.5
+
+The only change to Bill Calculation is the removal of Quotation engine as a L2 (both text and
+removal from the diagram).",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 19.0 Modification,1899-12-30T00:00:00,41384e8da7e811e980e5000d3a02ed0d,0,0,2019-07-16T16:39:19,1899-12-30T00:00:00,9bf47922b24711e980e5000d3a02ed0d,2019-07-29T21:27:17,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Business Process Framework 19.0 Deletion,1899-12-30T00:00:00,41384e91a7e811e980e5000d3a02ed0d,0,0,2019-07-16T16:39:20,1899-12-30T00:00:00,9bf47922b24711e980e5000d3a02ed0d,2019-07-29T21:27:42,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Business Process Framework 19.0 Addition,1899-12-30T00:00:00,473a1d30a7e811e980e5000d3a02ed0d,0,0,2019-07-16T16:39:29,1899-12-30T00:00:00,9bf47922b24711e980e5000d3a02ed0d,2019-07-29T21:27:29,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Information Framework 12.0 Addition,1899-12-30T00:00:00,4837c2b80ed611e2840e984be1bad6a0,0,0,2012-10-05T09:18:17,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-05-01T09:02:32,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 14.5 Addition,1899-12-30T00:00:00,48e0aac66dd511e4b36f6817294aebff,0,0,2014-11-16T23:12:36,1899-12-30T00:00:00,e42421d86e5c11e4b36f6817294aebff,2014-11-17T20:41:35,,0,0,0.0,0.0,,,,ADMIN,ADMIN,ADMIN
+Service Quality Monitoring & Impact Analysis - Deleted (6.6),1899-12-30T00:00:00,491a44b753e411e0b70d002564cb911c,0,0,2011-03-21T13:54:38,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:09:52,"Replaced by Service Quality Management (6.9)
+
+Deleted in 4.5",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+"Should this be Level 1, NOT Level 2?",1899-12-30T00:00:00,4f7670a0023411dd9347001e378839ac,0,0,2008-04-04T06:46:00,1899-12-30T00:00:00,565609dc856311e2a387984be1bad6a0,2013-03-05T03:04:54,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+CHECK ME,1899-12-30T00:00:00,546dd05b51ef11ec8107000d3a02ed0d,0,0,2021-11-30T15:08:11,1899-12-30T00:00:00,,2021-11-30T15:08:13,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Business Process Framework 16.0 Modification,1899-12-30T00:00:00,577dd7492e1b11e6bf18002590713bc0,0,0,2016-06-09T02:22:46,1899-12-30T00:00:00,39eea1812bf611e6bf18002590713bc0,2016-06-10T15:17:44,,0,0,0.0,0.0,32,32,8,,,
+Oracle RODOD Solution Conformance Results,1899-12-30T00:00:00,5f450324c6c711e3b45c6817294aebff,0,0,2014-04-18T01:01:40,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:55:54,"Company Name ORACLE
+Certification Type Solution
+Product Name Oracle Communications Rapid Offer Design and Order Delivery (RODOD)
+Product Version N/A
+Product Description ""Oracle Communications Rapid Offer Design and Order Delivery (RODOD) is a fully-integrated, product-based solution that provides Service Providers with:
+o Faster time to market with integrated end-to-end offer design configuration
+o Shorter order cycles with complete visibility across the order lifecycle
+o Reduced operational cost through advanced order management capabilities and integrations
+The RODOD solution is based on three innovative design principles:
+o Decoupling of commercial offers from fulfillment flows
+o Dynamic generation of orchestration plans
+o Fulfillment topology abstraction from fulfillment flows.
+Certification Results: 
+http://www.tmforum.org/OracleRapidOfferDesign/14898/home.html""
+Company Website http://www.oracle.com/index.html
+Product Website http://www.oracle.com/us/products/applications/communications/order-management/rapid-offer/overview/index.html
+Product Contacts philippe.lalande@oracle.com, devi.germilla@oracle.com, andrea.canessa@oracle.com
+Frameworx Version 12.0
+Summary WEB Results http://www.tmforum.org/OracleRapidOfferDesign/14898/home.html
+eTOM WEB Results http://www.tmforum.org/OracleRODODSolution/14931/home.html
+SID WEB Results N/A
+Certification Report: http://www.tmforum.org/browse.aspx?catID=14931&linkID=52057&docID=20016",0,0,0.0,0.0,32,32,32,,,
+does this look right?,1899-12-30T00:00:00,60f1579d78ce11ea80ee000d3a02ed0d,0,0,2020-04-07T12:50:38,1899-12-30T00:00:00,,2020-04-07T12:50:43,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Information Framework 13.0 Modification,1899-12-30T00:00:00,61580033e33911e2be9650b7c3954f49,0,0,2013-07-02T11:03:58,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-07-02T11:03:58,,0,0,0.0,0.0,6,6,6,,,
+Administer Workforce,1899-12-30T00:00:00,616761367dfb11e1a8e8002564cb911c,0,0,2012-04-03T22:10:43,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-05-01T08:55:10,The existing eTOM’s “Administer Workforce” is renamed to “Administer and Configure Workforce Management” to provide a clearer description and to extend management to a variety of catalogs that are used to drive workforce management systems.,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Information Framework 13.5 Addition,1899-12-30T00:00:00,63439cc9a45d11e3810f6817294aebff,0,0,2014-03-05T05:57:28,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2014-03-05T10:37:15,,0,0,0.0,0.0,32,32,32,,,
+ZTE  ZSmart V8.0,1899-12-30T00:00:00,6380f3a981ac11e394686817294aebff,0,0,2014-01-20T02:24:57,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-03-17T05:10:42,"Company Name ZTE Corporation
+Certification Type Product
+Product Name Zsmart
+Product Version 8
+Product Description ""ZSmart BSS/OSS is a market-leading software and service suite exclusively designed to provide CSPs with end-to-end IT support for business and operations. ZSmart BSS/OS offers a set of functional components and product packages which can be assembled and configured flexibly on a unified SOA infrastructure to support agile operation and address various market and customer demands perfectly. 
+Especially ZSmart BSS/OSS embraces innovative solutions such as Intelligent Charging and Policy Control, Event-driven Multi-channel Campaign Management, Big-data based Customer Experience Management System, Cloud-computing based Enterprise Services and Integrated Network Operation Center to address the new challenges in the data deluge era.""
+Company Website http://www.ztesoft.com/html/en/
+Product Website http://www.ztesoft.com/html/en/article_list_45.html
+Product Contacts li.wei9@zte.com.cn
+Frameworx Version 12.0
+Product Summary Results http://www.tmforum.org/ZTECorporationZSmart/15678/home.html
+eTOM WEB Results http://www.tmforum.org/BusinessProcessFramework/15679/home.html
+SID WEB Results http://www.tmforum.org/ZTECorporationZSmart/15678/InformationFramework/15701/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?linkid=53695&docid=20928",0,0,0.0,0.0,32,32,32,,,
+Information Framework 15.5 Modification,1899-12-30T00:00:00,6403c2d29e6211e5bf18002590713bc0,0,0,2015-12-09T04:48:34,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:23:02,,0,0,0.0,0.0,32,32,8,,,
+Portugal Telecom Inovacao-NOSSIS Suite Vr.2,1899-12-30T00:00:00,64fd33aac6c611e3b45c6817294aebff,0,0,2014-04-18T00:54:40,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:24:26,"Company Name Portugal Telecom Inovacao
+Certification Type Product
+Product Name NOSSIS Suite
+Product Version 2
+Product Description ""PT Inovação NOSSIS is a Suite of fully integrated OSS products, designed according TMForum Frameworx guidelines. It helps Service Providers to manage multi-technology and multiservice networks, and to simplify the implementation of their Operation Processes, including Network Project and Construction, Service Provisioning, Problem Management and Quality of Service processes.
+The suite enables enterprise process automation, with an integrated and complete view of all resources and activities, minimizing operational costs, and contributing to a faster and effective operational response time. 
+The main NOSSIS benefits include:
+o Maximizing operational efficiency
+o Reducing maintenance times and costs
+o Improving problem resolution responses
+o Reducing service activation times
+o Increasing end customer satisfaction levels
+Certification Results:
+http://www.tmforum.org/PortugalTelecomInovacao/14234/home.html""
+Company Website http://www.ptinovacao.pt/en/
+Product Website http://www.ptinovacao.pt/en/nossissolution.html
+Product Contacts FBastos@ptinovacao.pt
+Frameworx Version 12.0
+Summary WEB Results http://www.tmforum.org/PortugalTelecomInovacao/14234/home.html
+eTOM WEB Results http://www.tmforum.org/PortugalTelecomInovacao/14235/home.html
+SID WEB Results http://www.tmforum.org/PortugalTelecomInovacao/14236/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?linkid=50620&docid=18680",0,0,0.0,0.0,32,32,32,,,
+Information Framework 12.5 Modification,1899-12-30T00:00:00,6615a1732eec11e2b381984be1bad6a0,0,0,2012-11-16T09:12:13,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-03-05T03:03:57,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Issue 307,1899-12-30T00:00:00,69316d4d51ef11ec8107000d3a02ed0d,0,0,2021-11-30T15:08:46,1899-12-30T00:00:00,,2021-11-30T15:08:46,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Application Framework 12.5 Modification,1899-12-30T00:00:00,6c1823bb16f811e2b75d002564cb911c,0,0,2012-10-15T12:44:57,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-05-01T08:55:10,"Sales & Marketing Updates (some text changes - no diagram or object level changes).
+The implied removal of Customer Contact, Retention & Loyalty per #1 and 2 below, renamed to Customer Retention Management.
+
+1. Customer Information Management, including decomposition and diagram
+2. Customer Loyalty Management, including decomposition and diagram.",0,0,0.0,0.0,8,8,6,,,
+Information Framework 16.0 Addition,1899-12-30T00:00:00,6cc95065334d11e6bf18002590713bc0,0,0,2016-06-15T17:03:52,1899-12-30T00:00:00,39eea1812bf611e6bf18002590713bc0,2016-06-22T10:32:22,,0,0,0.0,0.0,32,32,8,,,
+Application Framework 12.5 Deletion,1899-12-30T00:00:00,6eb306b916de11e2b75d002564cb911c,0,0,2012-10-15T09:38:55,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-05-01T08:55:10,"Customer Retention Management diagram deletions:
+ a. Verify Customer Relationship
+ b. Analyze and Manage Customer Risk
+ c. Interaction Management
+ d. Personalize Customer Profile
+ e. Build Customer Insight",0,0,0.0,0.0,8,8,6,,,
+Business Process Framework 9.0 Addition,1899-12-30T00:00:00,73cae90e6be411e1a5f7002564cb911c,0,0,2012-03-11T21:41:15,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:18:37,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Application Framework 17.0 Addition,1899-12-30T00:00:00,74630e7352bd11e780ca000d3a02ed0d,0,0,2017-06-16T17:58:52,1899-12-30T00:00:00,3715a2425aa411e780cb000d3a02ed0d,2017-06-26T19:18:25,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Information Framework 15.0 Modification,1899-12-30T00:00:00,7660badc675a11e5bf18002590713bc0,0,0,2015-09-30T04:03:15,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:48,,0,0,0.0,0.0,32,32,8,,,
+Business Process Framework 14.0 Modification,1899-12-30T00:00:00,7ae67b0ce65111e382346817294aebff,0,0,2014-05-28T13:18:59,1899-12-30T00:00:00,7f17fa78e27711e392b26817294aebff,2014-05-28T13:24:43,,0,0,0.0,0.0,,,,ADMIN,ADMIN,ADMIN
+Business Process Framework 16.5 Addition,1899-12-30T00:00:00,7bae9c9aa4c811e6bf18002590713bc0,0,0,2016-11-07T02:59:27,1899-12-30T00:00:00,4640150ba5d511e6bf18002590713bc0,2016-11-10T13:55:36,,0,0,0.0,0.0,32,32,8,,,
+Business Process Framework 16.5 Modification,1899-12-30T00:00:00,7c9529d9a4ee11e6bf18002590713bc0,0,0,2016-11-07T07:31:29,1899-12-30T00:00:00,4640150ba5d511e6bf18002590713bc0,2016-11-09T17:42:26,,0,0,0.0,0.0,32,32,8,,,
+ITIL Candidate Frameworx 12,1899-12-30T00:00:00,7d53ecf957fa11e1aa36002564cb911c,0,0,2012-02-15T12:28:36,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-02-15T10:30:42,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+is this correct?,1899-12-30T00:00:00,7e7deb9678ce11ea80ee000d3a02ed0d,0,0,2020-04-07T12:51:28,1899-12-30T00:00:00,,2020-04-07T12:51:34,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Buying,1899-12-30T00:00:00,80421ac20c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:03:09,1899-12-30T00:00:00,80421ac10c0d11e3beaae4ef44b5706d,2013-08-28T04:52:30,"This is the phase when a customer is considering, learning, making the decision to purchase and also the act of actually purchasing the service  or the product with a CSP.",0,0,0.0,0.0,6,6,6,,,
+Asteros Labs Asteros Business Contact Telecom,1899-12-30T00:00:00,87bef6c0adeb11e3865d6817294aebff,0,0,2014-03-17T09:47:05,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-03-19T13:57:13,"Company Name Asteros Labs
+Certification Type Product
+Product Name Asteros Business Contact Telecom
+Product Version N/A
+Product Description ""Asteros Business Contact.Telecom is a Unified Desktop class product which is dedicated to increase efficiency of telecommunication service provider customer service in contact-centers and front-offices by means of business scenarios automation. Product allows increasing the quality of customer service while reducing its cost.
+Product main features and capabilities:
+Ergonomic easy-to-use interface to complex systems (Unified Desktop)
+Seamless automation of business scenarios
+Outgoing calls and questionnaire campaigns support
+Cross-selling and up-selling support while incoming and outgoing calls
+Statistics and analytics of business scenarios execution
+Integration with client’s IT-systems at the level of: client-side integration, BPMs, ESB, AppServer, DB
+Visual builder for creation or rework/modification of automated business scenarios
+Product is developed on proprietary Asteros Business Contact platform which allows scaling the solution through the use of a modular architecture easily and flexibly.""
+Company Website http://asteroslabs.ru/en/
+Product Website http://www.asteros.com/solutions/it-consulting/proprietary/contact/
+Product Contacts Ilya.Zamyslov@asteros.ru
+Frameworx Version 12.0
+Product Summary Results http://www.tmforum.org/AsterosBusinessContactTelecom/14979/home.html
+eTOM WEB Results http://www.tmforum.org/AsterosBusinessContactTelecom/14980/home.html
+SID WEB Results http://www.tmforum.org/AsterosBusinessContactTelecom/14981/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?catID=14980&linkID=52180&docID=20075",0,0,0.0,0.0,32,32,32,,,
+Application Framework 14.5 Modification,1899-12-30T00:00:00,8ad5c26b6fc911e4b36f6817294aebff,0,0,2014-11-19T10:53:35,1899-12-30T00:00:00,e42421d86e5c11e4b36f6817294aebff,2014-11-19T10:53:35,,0,0,0.0,0.0,,,,ADMIN,ADMIN,ADMIN
+Service Quality Management (6.9),1899-12-30T00:00:00,8af915db53e511e0b70d002564cb911c,0,0,2011-03-21T14:03:38,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:10:09,"This contribution replaces Service Quality Monitoring & Impact Analysis, and should be placed in the Service Management X Assurance Domain.",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Any impact to customer payment channels and processes?,1899-12-30T00:00:00,8ca2de7537ec11e3becc9c9341769232,0,0,2013-10-18T05:57:59,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:57:59,,0,0,0.0,0.0,6,6,6,,,
+Are there any changes to the ordering process?,1899-12-30T00:00:00,8ca2de7637ec11e3becc9c9341769232,0,0,2013-10-18T05:58:01,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:01,,0,0,0.0,0.0,6,6,6,,,
+Are there any self-service features that need to be supported?,1899-12-30T00:00:00,8ca2de7737ec11e3becc9c9341769232,0,0,2013-10-18T05:58:03,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:03,,0,0,0.0,0.0,6,6,6,,,
+Do you have a rule engine or analytic system to guide the interaction between customers and the CSR or other self-service channels?,1899-12-30T00:00:00,8ca2de7837ec11e3becc9c9341769232,0,0,2013-10-18T05:58:05,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:58:05,,0,0,0.0,0.0,6,6,6,,,
+Do you use Offer recommendation Engine? What customer characteristics do you consider,1899-12-30T00:00:00,8ca2de7937ec11e3becc9c9341769232,0,0,2013-10-18T05:58:08,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:58:08,,0,0,0.0,0.0,6,6,6,,,
+Application Framework Creation,1899-12-30T00:00:00,8cbdd2dddb9411e780d0000d3a02ed0d,0,0,2017-12-07T21:21:13,1899-12-30T00:00:00,fb46f720db9111e780d0000d3a02ed0d,2017-12-07T21:21:13,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Axelos,1899-12-30T00:00:00,90e862748cbb11e3beec94560af2d532,0,0,2014-02-03T04:10:53,1899-12-30T00:00:00,565609db856311e2a387984be1bad6a0,2014-02-03T04:12:08,"AXELOS are a new joint venture company, created by the Cabinet Office on behalf of Her Majesty's Government (HMG) in the United Kingdom and Capita plc to run the Best Management Practice portfolio, including the ITIL® and PRINCE2® professional standards. Our goal: to nurture best practice communities, both in the UK and on a truly worldwide scale, establishing an innovative and high quality, continuous learning and development destination that is co-designed by and co-created for those who use it.",0,0,0.0,0.0,6,6,6,,,
+Does a site survey need to done? Assume commercial.,1899-12-30T00:00:00,9376670c37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:10,1899-12-30T00:00:00,0d565c4a37ec11e3becc9c9341769232,2013-10-18T05:58:10,,0,0,0.0,0.0,6,6,6,,,
+Does the product have rating implicatinos for the customer?,1899-12-30T00:00:00,9376670d37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:13,1899-12-30T00:00:00,0d565c4837ec11e3becc9c9341769232,2013-10-18T05:58:13,,0,0,0.0,0.0,6,6,6,,,
+Does the service need to be rated and mediated?,1899-12-30T00:00:00,9376670e37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:15,1899-12-30T00:00:00,0d565c4837ec11e3becc9c9341769232,2013-10-18T05:58:15,,0,0,0.0,0.0,6,6,6,,,
+Does the service needs be recommeded at the time of sale?,1899-12-30T00:00:00,9376670f37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:17,1899-12-30T00:00:00,0d565c4a37ec11e3becc9c9341769232,2013-10-18T05:58:17,,0,0,0.0,0.0,6,6,6,,,
+Does the service require any new billing event or enrichment?,1899-12-30T00:00:00,9376671037ec11e3becc9c9341769232,0,0,2013-10-18T05:58:19,1899-12-30T00:00:00,0d565c4837ec11e3becc9c9341769232,2013-10-18T05:58:19,,0,0,0.0,0.0,6,6,6,,,
+Information Framework 12.5 Deletion,1899-12-30T00:00:00,938e7fe8309011e2b390984be1bad6a0,0,0,2012-11-17T02:49:43,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-03-05T03:03:57,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Using,1899-12-30T00:00:00,943553c90c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:03:39,1899-12-30T00:00:00,80421ac10c0d11e3beaae4ef44b5706d,2013-08-28T04:52:44,"During this phase the customer is actually using the service or product, managing his account or service profile, seeking and receiving help and making payments to continue his service.",0,0,0.0,0.0,6,6,6,,,
+Frameworx 12.0 Addition,1899-12-30T00:00:00,95b9b347a03811e1ac75002564cb911c,0,0,2012-05-17T11:54:30,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-03-05T03:03:57,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+REPORT WORKFORCE MANAGEMENT,1899-12-30T00:00:00,962912de7e0211e1a8e8002564cb911c,0,0,2012-04-03T23:02:18,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-03-05T03:03:57,Report Manage Workforce --> REPORT WORKFORCE MANAGEMENT,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Add ITIL Descriptions,1899-12-30T00:00:00,9719bb54aa9711dd9438001de065480b,-1,0,2008-11-04T12:39:55,2008-11-04T14:08:02,565609dc856311e2a387984be1bad6a0,2013-03-05T03:06:09,,0,0,0.0,0.0,,,6,EVOLVEADMIN,EVOLVEADMIN,
+Information Framework 15.0  Modification,1899-12-30T00:00:00,999742cb66e611e5bf18002590713bc0,0,0,2015-09-29T14:13:52,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:30,,0,0,0.0,0.0,32,32,8,,,
+"Field work requirements (customer premise, outside plant, central office, etc.)  and coordination with back-office works",1899-12-30T00:00:00,99f96e3537ec11e3becc9c9341769232,0,0,2013-10-18T05:58:21,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:58:21,,0,0,0.0,0.0,6,6,6,,,
+How am I taking this new service product to the market?,1899-12-30T00:00:00,99f96e3637ec11e3becc9c9341769232,0,0,2013-10-18T05:58:23,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:23,,0,0,0.0,0.0,6,6,6,,,
+How can the customer inquire about their bill?,1899-12-30T00:00:00,99f96e3737ec11e3becc9c9341769232,0,0,2013-10-18T05:58:26,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:26,,0,0,0.0,0.0,6,6,6,,,
+How do individual customer problems get handled?,1899-12-30T00:00:00,99f96e3837ec11e3becc9c9341769232,0,0,2013-10-18T05:58:28,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:28,,0,0,0.0,0.0,6,6,6,,,
+How do service-impacting customer problems get handled?,1899-12-30T00:00:00,99f96e3937ec11e3becc9c9341769232,0,0,2013-10-18T05:58:30,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:30,,0,0,0.0,0.0,6,6,6,,,
+Information Framework Deletion,1899-12-30T00:00:00,9b136a539e7211e5bf18002590713bc0,0,0,2015-12-09T06:44:38,1899-12-30T00:00:00,dc7b96089e7211e5bf18002590713bc0,2015-12-09T06:48:18,,0,0,0.0,0.0,32,32,32,,,
+Orga Systems-GOLD R2.4,1899-12-30T00:00:00,9c9435bac6c611e3b45c6817294aebff,0,0,2014-04-18T00:56:13,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:53:36,"Company Name Orga Systems
+Certification Type Product
+Product Name GOLD
+Product Version R2.4
+Product Description ""Orga Systems’ GOLD supplies operators with a convergent real-time rating and charging system for all voice and data services, all payment methods and all customer groups. On top of this, it provides extensive billing and financial management capabilities.
+
+GOLD offers true prepaid/postpaid and service convergence. The modular build makes it a very versatile system. It can either enhance existing billing systems or replace them as an independent single system.
+
+Orga Systems’ Collections Processing Module (CPM) is an add-on software product module to GOLD to support the processing of debt collections. It monitors and controls the overdue receivables and offers a variety of measures to manage outstanding accounts exceeding tolerated grace periods and tolerated amounts.
+Certification Results:
+http://www.tmforum.org/ProductAssessmentResults/OrgaSystemsGOLDRelease/14637/home.html""
+Company Website http://orga-systems.com/home/
+Product Website http://orga-systems.com/products/gold-convergent-charging-and-billing/
+Product Contacts HCznottka@orga-systems.com, CEwen@orga-systems.com, rkoslowski@orga-systems.com, fherrmann@orga-systems.com
+Frameworx Version 12.0
+Summary WEB Results http://www.tmforum.org/ProductAssessmentResults/OrgaSystemsGOLDRelease/14637/home.html
+eTOM WEB Results http://www.tmforum.org/OrgaSystemsGOLDR24/14638/home.html
+SID WEB Results http://www.tmforum.org/OrgaSystemsGOLDR24/14640/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?linkid=51476&docid=19368",0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 16.0 Addition,1899-12-30T00:00:00,9f438c64283911e6bf18002590713bc0,0,0,2016-06-01T14:44:24,1899-12-30T00:00:00,39eea1812bf611e6bf18002590713bc0,2016-06-08T13:49:53,,0,0,0.0,0.0,32,32,8,,,
+How woud customer identify / look for / discover the service?,1899-12-30T00:00:00,a06f25db37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:32,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:32,,0,0,0.0,0.0,6,6,6,,,
+In what ways will the customer be allowed to make changes to the service?,1899-12-30T00:00:00,a06f25dc37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:34,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:34,,0,0,0.0,0.0,6,6,6,,,
+Is the feature (specification)  value add or revenue generating?,1899-12-30T00:00:00,a06f25dd37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:37,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:37,,0,0,0.0,0.0,6,6,6,,,
+Is the feature (specification) bundled or stand alone (component)?,1899-12-30T00:00:00,a06f25de37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:40,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:40,,0,0,0.0,0.0,6,6,6,,,
+Application Framework 21.0 Deletion,1899-12-30T00:00:00,a2511822b33611eb80ff000d3a02ed0d,0,0,2021-05-12T15:28:01,1899-12-30T00:00:00,f796e73db33511eb80ff000d3a02ed0d,2021-05-12T15:28:01,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+REVIEW ME,1899-12-30T00:00:00,a3b504ab52da11ec8107000d3a02ed0d,0,0,2021-12-01T19:12:35,1899-12-30T00:00:00,,2021-12-01T19:12:42,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Is the service available for the customer?,1899-12-30T00:00:00,a73a3a4e37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:44,1899-12-30T00:00:00,0d565c4a37ec11e3becc9c9341769232,2013-10-18T05:58:44,,0,0,0.0,0.0,6,6,6,,,
+Offer Catalog browsing,1899-12-30T00:00:00,a73a3a4f37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:46,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:58:46,,0,0,0.0,0.0,6,6,6,,,
+Partner Management: How is content aggregated from partners to the MSO's catalog?,1899-12-30T00:00:00,a73a3a5037ec11e3becc9c9341769232,0,0,2013-10-18T05:58:48,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:48,,0,0,0.0,0.0,6,6,6,,,
+Partner Management: What self-service features provided to the partners?,1899-12-30T00:00:00,a73a3a5137ec11e3becc9c9341769232,0,0,2013-10-18T05:58:51,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:51,,0,0,0.0,0.0,6,6,6,,,
+Validate contact or create new customer contact,1899-12-30T00:00:00,a73a3a5237ec11e3becc9c9341769232,0,0,2013-10-18T05:58:53,1899-12-30T00:00:00,0d565c4a37ec11e3becc9c9341769232,2013-10-18T05:58:53,,0,0,0.0,0.0,6,6,6,,,
+Sharing,1899-12-30T00:00:00,a807c1a60c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:04:12,1899-12-30T00:00:00,80421ac10c0d11e3beaae4ef44b5706d,2013-08-28T04:52:37,Customers as they learn and use the service would share the experiences they have to others as part of this phase.,0,0,0.0,0.0,6,6,6,,,
+Information Framework 14.0 Modification,1899-12-30T00:00:00,a8e2f51ee27211e392b26817294aebff,0,0,2014-05-23T06:06:17,1899-12-30T00:00:00,7f17fa78e27711e392b26817294aebff,2014-05-23T06:41:22,,0,0,0.0,0.0,32,32,32,,,
+Rename to CSR Customer Orders Reproting,1899-12-30T00:00:00,aac6992f7f0211ea80ee000d3a02ed0d,0,0,2020-04-15T10:20:03,1899-12-30T00:00:00,,2020-04-15T10:21:24,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,ATALMOR
+"Satmetrix Systems, Inc., Bain & Company, Inc., and Fred Reichheld",1899-12-30T00:00:00,aaff2f05856311e2a387984be1bad6a0,0,0,2013-03-05T03:01:29,1899-12-30T00:00:00,565609db856311e2a387984be1bad6a0,2013-03-05T03:20:50,,0,0,0.0,0.0,6,6,6,,,
+Resource Specification Management (7.1.7),1899-12-30T00:00:00,ab2fece13aeb11e0a702002564cb911c,0,0,2011-02-17T18:14:29,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:08:32,"Renamed to Resource Catalog Management
+Overview modified",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Change Rating & Discounting to Charging,1899-12-30T00:00:00,ab32bfc2aa7f11dd9438001de065480b,-1,0,2008-11-04T09:48:41,2008-11-04T10:17:38,565609dc856311e2a387984be1bad6a0,2013-03-05T03:05:15,"Process Name (L2): Charging
+Brief Description: Managing the assignment of a value (monetary or other) to an
+event or product, or combination (bundle or aggregate) of the above.
+Extended Description: The purpose of Charging is to assign a value (monetary or other) to an event or product, or combination (bundle or aggregate) of the above. The charge may be either a credit or a debit. 
+The processes involved in assigning a value (charging) and application of the value to a balance include rating, application of discounts, and aggregation.
+Rating processes are responsible for calculating the assigned value by multiplying some quantity of items by a price. These processes can be as simple as a price multiplied by a quantity of one or may involve more complex calculations using accumulations or aggregations of items. Prices may be expressed as monetary or other units of measure. Prices are established through mechanisms such as contracts, tariffs, service agreements or price lists. Prices may be affected by the application of discounts.
+The values resulting from rating and the application of discounts can then be applied to a customer's balance. The balance affected by the value may be monetary or other balances such as minutes, points, or tokens.
+Rating and application of discounts may occur in real-time, near real-time, or may be executed on a periodic basis. These processes will also support pre-paid and post-paid pricing arrangements. 
+The charge may appear on a customer invoice via Apply Pricing, Discounting, Adjustments & Rebates.",0,0,0.0,0.0,,,6,EVOLVEADMIN,EVOLVEADMIN,
+Publish GB921D,1899-12-30T00:00:00,ab493f32339211e093ef002564cb911c,0,0,2011-02-08T09:49:46,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:07:03,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Business Process Framework 13.0 Modification,1899-12-30T00:00:00,ad08085cab8d11e28ee90026b9bf6441,0,0,2013-04-22T14:46:18,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-04-22T14:46:18,,0,0,0.0,0.0,8,8,8,,,
+"What are all the places throughout the process that we will be communicating with the customer (phone call, email, web-portal)?",1899-12-30T00:00:00,ae6ca60937ec11e3becc9c9341769232,0,0,2013-10-18T05:58:56,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:56,,0,0,0.0,0.0,6,6,6,,,
+What are the customer eligibility/qualification criteria?,1899-12-30T00:00:00,ae6ca60a37ec11e3becc9c9341769232,0,0,2013-10-18T05:58:58,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:58:58,,0,0,0.0,0.0,6,6,6,,,
+What are the customer eligibility/qualification criteria? Could be different for premise or customer. Is driven by sales or resources.,1899-12-30T00:00:00,ae6ca60b37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:00,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:00,,0,0,0.0,0.0,6,6,6,,,
+What are the customer facing service features?,1899-12-30T00:00:00,ae6ca60c37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:02,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:02,,0,0,0.0,0.0,6,6,6,,,
+What are the customer requirements for service activation and configuration?,1899-12-30T00:00:00,ae6ca60d37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:04,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:04,,0,0,0.0,0.0,6,6,6,,,
+Be Aware,1899-12-30T00:00:00,b2c7d6e20c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:04:38,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:52:52,"Prospects or customers in this phase are becoming aware of an offering, service or product provided by a CSP either voluntarily reaching out, or indirectly being the recepient of marketing efforts by the CSP.",0,0,0.0,0.0,6,6,6,,,
+Application Framework 16.5 Addition,1899-12-30T00:00:00,b3e65c53a4c811e6bf18002590713bc0,0,0,2016-11-07T03:01:01,1899-12-30T00:00:00,4640150ba5d511e6bf18002590713bc0,2016-11-10T13:54:36,,0,0,0.0,0.0,32,32,8,,,
+What are the customer's communication needs?,1899-12-30T00:00:00,b4cd1bd537ec11e3becc9c9341769232,0,0,2013-10-18T05:59:06,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:06,,0,0,0.0,0.0,6,6,6,,,
+What are the customer's reporting needs?,1899-12-30T00:00:00,b4cd1bd637ec11e3becc9c9341769232,0,0,2013-10-18T05:59:08,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:08,,0,0,0.0,0.0,6,6,6,,,
+What are the key customer touch points?,1899-12-30T00:00:00,b4cd1bd737ec11e3becc9c9341769232,0,0,2013-10-18T05:59:11,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:11,,0,0,0.0,0.0,6,6,6,,,
+What are the pricing rules?,1899-12-30T00:00:00,b4cd1bd837ec11e3becc9c9341769232,0,0,2013-10-18T05:59:13,1899-12-30T00:00:00,0d565c4837ec11e3becc9c9341769232,2013-10-18T05:59:13,,0,0,0.0,0.0,6,6,6,,,
+"What are the rules around MACD, rollbacks?",1899-12-30T00:00:00,b4cd1bd937ec11e3becc9c9341769232,0,0,2013-10-18T05:59:16,1899-12-30T00:00:00,0d565c4837ec11e3becc9c9341769232,2013-10-18T05:59:16,,0,0,0.0,0.0,6,6,6,,,
+Information Framework 13.0 Addition,1899-12-30T00:00:00,b5f753efe34311e2be9650b7c3954f49,0,0,2013-07-02T12:18:03,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-07-08T08:47:27,,0,0,0.0,0.0,6,6,6,,,
+Product Catalog Management (4.2),1899-12-30T00:00:00,b6b1d3f93aea11e0a702002564cb911c,0,0,2011-02-17T18:07:39,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:08:45,"Name changed from Product/Service Catalog Management
+Overview changed
+Functionality deleted",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+NICC 1626,1899-12-30T00:00:00,b75c787bf4dd11e4aa85002590713bc0,0,0,2015-05-07T11:23:11,1899-12-30T00:00:00,,2015-05-07T11:23:11,,0,0,0.0,0.0,32,32,32,,,
+Monetize Services,1899-12-30T00:00:00,b95d77de34bd11e3bec1b72eb0d0e42f,0,0,2013-10-14T04:45:34,1899-12-30T00:00:00,6249e33534bb11e3bec1b72eb0d0e42f,2013-10-14T04:45:34,,0,0,0.0,0.0,6,6,6,,,
+Add Customer Order Initialization,1899-12-30T00:00:00,bb917da57f0111ea80ee000d3a02ed0d,0,0,2020-04-15T10:13:22,1899-12-30T00:00:00,,2020-04-15T10:14:22,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,ATALMOR
+What are the service (specification) features?,1899-12-30T00:00:00,bc0f229f37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:18,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:18,,0,0,0.0,0.0,6,6,6,,,
+"What are the SLAs for Pri1, Pri2 and Pri3/4 tickets?",1899-12-30T00:00:00,bc0f22a037ec11e3becc9c9341769232,0,0,2013-10-18T05:59:21,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:21,,0,0,0.0,0.0,6,6,6,,,
+What customer information is needed to complete an order?  Does the required info depend on the options chosen?,1899-12-30T00:00:00,bc0f22a137ec11e3becc9c9341769232,0,0,2013-10-18T05:59:23,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:23,,0,0,0.0,0.0,6,6,6,,,
+What customer segments will be targeted?,1899-12-30T00:00:00,bc0f22a237ec11e3becc9c9341769232,0,0,2013-10-18T05:59:25,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:25,,0,0,0.0,0.0,6,6,6,,,
+What customer type are we target ?,1899-12-30T00:00:00,bc0f22a337ec11e3becc9c9341769232,0,0,2013-10-18T05:59:28,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:28,,0,0,0.0,0.0,6,6,6,,,
+Information Framework 12.0 Addition 2,1899-12-30T00:00:00,bd2523690ed511e2840c984be1bad6a0,0,0,2012-10-05T07:14:24,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-05-01T09:03:56,"<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 4.0 Transitional//EN"">
+<HTML><HEAD>
+<META http-equiv=Content-Type content=""text/html; charset=utf-8"">
+<META content=""MSHTML 6.00.6000.16788"" name=GENERATOR></HEAD>
+<BODY> <p>Information Framework load from 20120915 extract on 20121005</p> </BODY></HTML>",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Application Framework 13.5 Addition,1899-12-30T00:00:00,bd50a8942ba511e397730220e3370c01,0,0,2013-10-02T15:00:55,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2013-10-02T15:00:55,,0,0,0.0,0.0,8,8,8,,,
+Interact,1899-12-30T00:00:00,be807cd60c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:04:50,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:16,"Prospects and Customers in this phase now begin to interact with the CSP(s) via any one of their channels to understand further information on their offerings, products and/or services",0,0,0.0,0.0,6,6,6,,,
+Choose,1899-12-30T00:00:00,be807cd70c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:04:54,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:00,Existing customers or new prospects in this phase select the CSP and the offering or service which they would like to purchase and sign up for.,0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 13.0 Addition,1899-12-30T00:00:00,bfb0a492e4b211e2be9650b7c3954f49,0,0,2013-07-04T08:05:16,1899-12-30T00:00:00,4a2d4f0980ae11e2b493984be1bad6a0,2013-07-08T08:47:55,,0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 17.0 Deletion,1899-12-30T00:00:00,c007af624f8c11e780ca000d3a02ed0d,0,0,2017-06-12T16:32:40,1899-12-30T00:00:00,3715a2425aa411e780cb000d3a02ed0d,2017-06-26T19:18:43,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Business Process Framework 20.0 Addition,1899-12-30T00:00:00,c0784359a0cd11ea80f0000d3a02ed0d,0,0,2020-05-28T10:26:56,1899-12-30T00:00:00,efaa146a659e11eb80fc000d3a02ed0d,2021-02-02T21:39:22,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Business Process Framework 20.0 Modification,1899-12-30T00:00:00,c078435ba0cd11ea80f0000d3a02ed0d,0,0,2020-05-28T10:26:58,1899-12-30T00:00:00,efaa146a659e11eb80fc000d3a02ed0d,2021-02-02T21:42:16,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+backwards hierarchy,1899-12-30T00:00:00,c200860878cd11ea80ee000d3a02ed0d,0,0,2020-04-07T12:46:12,1899-12-30T00:00:00,,2020-04-07T12:46:15,,0,0,0.0,0.0,,,,DFREED,DFREED,DFREED
+Information Framework 14.0 Addition,1899-12-30T00:00:00,c30a0d22e26311e392b26817294aebff,0,0,2014-05-23T04:19:48,1899-12-30T00:00:00,7f17fa78e27711e392b26817294aebff,2014-05-23T06:41:50,,0,0,0.0,0.0,32,32,32,,,
+What documentation about the customer is needed?,1899-12-30T00:00:00,c318494837ec11e3becc9c9341769232,0,0,2013-10-18T05:59:30,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:30,,0,0,0.0,0.0,6,6,6,,,
+What does the customer need to know about order limitation milestone?,1899-12-30T00:00:00,c318494937ec11e3becc9c9341769232,0,0,2013-10-18T05:59:32,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:32,,0,0,0.0,0.0,6,6,6,,,
+What does the process to route/escalate the trouble tickets to appropriate stakeholders (level 1-4 support) look like?,1899-12-30T00:00:00,c318494a37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:35,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:35,,0,0,0.0,0.0,6,6,6,,,
+What impact does this product have to retention and loyalty?,1899-12-30T00:00:00,c318494b37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:37,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:37,,0,0,0.0,0.0,6,6,6,,,
+What is the premise serviceability need to be?,1899-12-30T00:00:00,c318494c37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:39,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:39,,0,0,0.0,0.0,6,6,6,,,
+Infonova R6-CONCEPT-TO-CASH V6.5,1899-12-30T00:00:00,c33ff241adea11e3865d6817294aebff,0,0,2014-03-17T09:41:35,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-03-17T10:34:46,"Company Name Infonova
+Certification Type Product
+Product Name R6-CONCEPT-TO-CASH
+Product Version 6.5
+Product Description R6 is an E2E Concept-to-Cash BSS for a primary operator & multiple tenants. It is a fully J2EE platform that supports real multi-tenant concept-to-cash operations for fully convergent and complex cross-industry business models while also supporting Telco 1.0 simultaneously. The R6 platform has been specifically designed to be technology and service agnostic and offers comprehensive service bundling, enabling multiple tenant operators to configure, bundle and price their own product & service portfolios including Cloud (IaaS, PaaS & SaaS), Broadband IP, VoIP, IPTV, PSTN, Mobile with other third party services, e.g. media, insurance, device distribution, content, water, gas and power - for their target markets.
+Company Website https://www.infonova.com/en/index.html
+Product Website https://www.infonova.com/en/r6-concept-to-cash.html
+Product Contacts andreas.polz@infonova.com, thomas.russ@infonova.com
+Frameworx Version 12.0
+Product Summary Results http://www.tmforum.org/InfonovaR6ConcepttoCash/14959/home.html
+eTOM WEB Results http://www.tmforum.org/InfonovaR6C2CBSS/14960/home.html
+SID WEB Results http://www.tmforum.org/InfonovaR6C2CBSS/14962/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?catID=14962&linkID=52138&docID=20074",0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 21.0 Addition,1899-12-30T00:00:00,c4494977bcac11eb8100000d3a02ed0d,0,0,2021-05-24T16:26:20,1899-12-30T00:00:00,,2021-05-24T16:26:20,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,ATALMOR
+Application Framework 12.0 Addition,1899-12-30T00:00:00,c7d336ac632011e1aa36002564cb911c,0,0,2012-02-29T17:00:25,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:22:36,TAM 12.0 = TAM 5.0,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Consume,1899-12-30T00:00:00,c8117a370c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:05:06,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:08,The customer begins to use the services of the CSP and starts to make decisions about its usage and personal experience.,0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 21.0 Deletion,1899-12-30T00:00:00,c88f0e6ebcad11eb8100000d3a02ed0d,0,0,2021-05-24T16:33:36,1899-12-30T00:00:00,,2022-01-12T20:52:17,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Information Framework 14.0 Deletion,1899-12-30T00:00:00,c8af3452e27f11e392b26817294aebff,0,0,2014-05-23T07:40:14,1899-12-30T00:00:00,7f17fa78e27711e392b26817294aebff,2014-05-23T07:43:35,,0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 12.0 moved to L4,1899-12-30T00:00:00,c9700c407e0811e1a8e8002564cb911c,0,0,2012-04-03T23:46:41,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:18:23,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+What order volumes are expected (over time)?,1899-12-30T00:00:00,c9d19ea137ec11e3becc9c9341769232,0,0,2013-10-18T05:59:42,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:42,,0,0,0.0,0.0,6,6,6,,,
+What party are we targeting?,1899-12-30T00:00:00,c9d19ea237ec11e3becc9c9341769232,0,0,2013-10-18T05:59:44,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:44,,0,0,0.0,0.0,6,6,6,,,
+Which sales channels will be driving the orders?,1899-12-30T00:00:00,c9d19ea337ec11e3becc9c9341769232,0,0,2013-10-18T05:59:46,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:46,,0,0,0.0,0.0,6,6,6,,,
+Who is providing the feature (specification) ?,1899-12-30T00:00:00,c9d19ea437ec11e3becc9c9341769232,0,0,2013-10-18T05:59:48,1899-12-30T00:00:00,0d565c4937ec11e3becc9c9341769232,2013-10-18T05:59:48,,0,0,0.0,0.0,6,6,6,,,
+Wholesale: what does the process of customer/partner on-boarding look like?,1899-12-30T00:00:00,c9d19ea537ec11e3becc9c9341769232,0,0,2013-10-18T05:59:51,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:51,,0,0,0.0,0.0,6,6,6,,,
+Application Framework 16.0 Addition,1899-12-30T00:00:00,cb0875bb275011e6bf18002590713bc0,0,0,2016-05-31T10:57:45,1899-12-30T00:00:00,39eea1812bf611e6bf18002590713bc0,2016-06-08T13:49:42,,0,0,0.0,0.0,32,32,8,,,
+Information Framework 14.5 Deletion,1899-12-30T00:00:00,ccd0726379fd11e49eb36817294aebff,0,0,2014-12-02T10:32:51,1899-12-30T00:00:00,e42421d86e5c11e4b36f6817294aebff,2014-12-02T10:32:51,,0,0,0.0,0.0,,,,ADMIN,ADMIN,ADMIN
+Information Framework 14.5 Addition,1899-12-30T00:00:00,ccd072cc79fd11e49eb36817294aebff,0,0,2014-12-02T10:32:57,1899-12-30T00:00:00,e42421d86e5c11e4b36f6817294aebff,2014-12-02T10:32:57,,0,0,0.0,0.0,,,,ADMIN,ADMIN,ADMIN
+Manage,1899-12-30T00:00:00,cefe15b30c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:05:17,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:31,"Customers during this phase are managing their account and service, making changes to their subscription and also seeking help and assistance (as need be) to continue utilization of their services with the CSP.",0,0,0.0,0.0,6,6,6,,,
+Wholesales: what does the process of customer/partner on-boarding look like?,1899-12-30T00:00:00,d0c7c0ab37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:53,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:53,,0,0,0.0,0.0,6,6,6,,,
+Will the customer be able to bring own device?,1899-12-30T00:00:00,d0c7c0ac37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:55,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:55,,0,0,0.0,0.0,6,6,6,,,
+Will there be self-service ordering?,1899-12-30T00:00:00,d0c7c0ad37ec11e3becc9c9341769232,0,0,2013-10-18T05:59:58,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T05:59:58,,0,0,0.0,0.0,6,6,6,,,
+Will there be self-service support for service or product,1899-12-30T00:00:00,d0c7c0ae37ec11e3becc9c9341769232,0,0,2013-10-18T06:00:00,1899-12-30T00:00:00,0d565c4737ec11e3becc9c9341769232,2013-10-18T06:00:00,,0,0,0.0,0.0,6,6,6,,,
+Rancore RTTC  V6.0.2.,1899-12-30T00:00:00,d0db21b581ab11e394686817294aebff,0,0,2014-01-20T02:20:51,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-03-17T05:11:44,"Company Name Rancore Technologies
+Certification Type Product
+Product Name Rancore Technologies Total Charge (RTTC) System
+Product Version 6.0.2
+Product Description ""Rancore’s RtTotalCharge (RTTC) enables Communication Service Providers (CSP) with a convergent rating and charging solution for legacy and next generation communication services. This carrier class charging product is built around 3GPP specifications and TM Forum recommendations. It provides unmatched flexibility to retail and enterprise businesses by supporting complex customer hierarchies, payment models and usage based promotions.
+RTTC helps CSPs to accelerate their Go-To-Market strategy by providing ready-to-use rich APIs and standard interfaces to integrate with both the networks and the OSS & BSS systems. The flexibility of RTTC architecture permits its deployment either as a stand-alone charging product or as an integrated solution along with other billing and invoicing systems.
+The architectural constructs of RTTC supports virtually unlimited subscriber base, high availability and excellent performance, thus making it suitable for the incumbent as well as green field operators.""
+Company Website http://www.rancoretech.com/
+Product Website http://www.rancoretech.com/
+Product Contacts anurag.singh@rancoretech.com, shailesh.jha@rancoretech.com
+Frameworx Version 12.0
+Product Summary Results http://www.tmforum.org/RancoreTechnologies/15413/home.html
+eTOM WEB Results http://www.tmforum.org/RancoreTechnologies/15413/RancoreTechnologies/15415/home.html
+SID WEB Results http://www.tmforum.org/RancoreTechnologies/15413/RancoreTechnologies/15423/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?linkid=53160&docid=20613",0,0,0.0,0.0,32,32,32,,,
+Application Framework 12.0 Modification,1899-12-30T00:00:00,d2a8d9bb63b711e1aa36002564cb911c,0,0,2012-03-01T11:01:37,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:23:19,TAM 12.0=TAM 5.0,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+B2B Interaction Business Processes Technical Specification (v1 9),1899-12-30T00:00:00,d4608a625e8711e4925a6817294aebff,0,0,2014-10-28T03:50:28,1899-12-30T00:00:00,565609db856311e2a387984be1bad6a0,2014-10-29T03:55:40,,0,0,0.0,0.0,32,32,6,,,
+GB978 Catalog to Catalog Interface,1899-12-30T00:00:00,d62122a3f4dd11e4aa85002590713bc0,0,0,2015-05-07T11:24:05,1899-12-30T00:00:00,,2015-05-07T11:24:05,,0,0,0.0,0.0,32,32,32,,,
+Pay,1899-12-30T00:00:00,d84f4b5a0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:05:33,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:38,The pay subphase of the lifecycle includes the interactions wherein the customer receives and views his charges on his account and depending upon his payment type either tops up his service or makes payments against it.,0,0,0.0,0.0,6,6,6,,,
+Huawei-MSUP V2.0,1899-12-30T00:00:00,d8780662c6c711e3b45c6817294aebff,0,0,2014-04-18T01:04:57,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:57:01,"Company Name Huawei
+Certification Type Implementation
+Product Name Managed Services Unified Platform (MSUP)
+Product Version V2.0
+Product Description ""This Managed Services Unified Platform illustrates and details the required components and processes to Effectively, Consistently, Economically and Securely implement and manage an ICT services provider business:
+The MSUP business processes and related business metrics are deployed within an organization;
+During the MSUP implementation, the Operation Data Information is Monitored and Analyzed to identify the improvement area, then the MSUP process is prioritized, customized and implemented according to Improvement solution;
+The Operation Data Information is collected, analyzed to identify process inefficiencies compared to:
+Contractual requirements, Service Level Agreements, Key Performance Indicators (Cost, Customer Experience, Operational Effectiveness)
+Internal commitments as Operating Level Agreements, Performance Indicators
+and proven industry best practices
+The Operation Excellence is guaranteed after the implementation: 
+Improved SLA compliance rate o Reduced Time to Deliver Service and Speed Deployment of New Services o Rapid Repair of Service Faults
+Increased Workforce Productivity
+Reduced Revenue Leakage and to Improve Profits and Business Agility
+Reduced Customer Churn and Unlock New Business Opportunities
+Better Security Control to Manage Confidentiality, Integrity and Availability of Information
+Improved compliance to regulatory requirements
+Improved management effectiveness and efficiency
+Certification Results:
+http://www.tmforum.org/HuaweiMSUPV2/14592/home.html""
+Company Website http://www.huawei.com/en/
+Product Website http://www.huawei.com/en/about-huawei/publications/huawei-service/hw-103966.htm
+Product Contacts Tinchung.Shea@huawei.com, fengqingfeng@huawei.com, cp.lau@huawei.com
+Frameworx Version 12.0
+Summary WEB Results http://www.tmforum.org/HuaweiMSUPV2/14592/home.html
+eTOM WEB Results http://www.tmforum.org/HuaweiManagedServices/14594/home.html
+SID WEB Results N/A
+Certification Report: http://www.tmforum.org/browse.aspx?catID=14594&linkID=51412&docID=19341",0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 16.5 Deletion,1899-12-30T00:00:00,d8f24abca50011e6bf18002590713bc0,0,0,2016-11-07T09:42:55,1899-12-30T00:00:00,4640150ba5d511e6bf18002590713bc0,2016-11-08T11:03:37,,0,0,0.0,0.0,32,32,8,,,
+Business Process Framework 12.0 Addition,1899-12-30T00:00:00,dc88e54c6c7c11e1a5f7002564cb911c,0,0,2012-03-12T15:52:14,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-22T14:46:38,,0,0,0.0,0.0,,,8,ADMIN,ADMIN,
+Information Framework 15.0  Deletion,1899-12-30T00:00:00,dcca07a06db911e5bf18002590713bc0,0,0,2015-10-08T06:41:16,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2016-01-27T21:22:23,,0,0,0.0,0.0,32,32,8,,,
+GB959 v0 4,1899-12-30T00:00:00,dd8586955f4711e4b023002590713bc0,0,0,2014-10-29T02:45:01,1899-12-30T00:00:00,565609db856311e2a387984be1bad6a0,2014-10-29T03:53:43,"This link is about the objects that were first found in GB959.  There are many other objects in GB959 as well, but they correspond to objects that were already within the repository.",0,0,0.0,0.0,32,32,6,,,
+Application Framework 17.5 Modification,1899-12-30T00:00:00,de68c5fee02a11e780d0000d3a02ed0d,0,0,2017-12-13T17:27:19,1899-12-30T00:00:00,fb46f720db9111e780d0000d3a02ed0d,2017-12-27T13:58:18,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Business Process Framework 20.5 Modification,1899-12-30T00:00:00,e00f7e3433ff11eb80f9000d3a02ed0d,0,0,2020-12-01T18:06:04,1899-12-30T00:00:00,efaa146b659e11eb80fc000d3a02ed0d,2021-02-02T21:42:29,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Renew,1899-12-30T00:00:00,e085590c0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:05:47,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:52,At the end of a defined period the customers would make decision of renewing their subscription with the CSP as part of this phase.,0,0,0.0,0.0,6,6,6,,,
+Recommend,1899-12-30T00:00:00,e085590d0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:05:56,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:45,Customers would refer the CSP and the service they are using based on their experience. The referering phase implies either if it is positive or negative referral.,0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 15.0 Deletion,1899-12-30T00:00:00,e6300c4dfefb11e4aa85002590713bc0,0,0,2015-05-20T08:24:19,1899-12-30T00:00:00,62af7d8afe4011e4aa85002590713bc0,2015-05-20T08:24:19,,0,0,0.0,0.0,8,8,8,,,
+Design Digital Services,1899-12-30T00:00:00,e6863a2434bb11e3bec1b72eb0d0e42f,0,0,2013-10-14T04:32:31,1899-12-30T00:00:00,6249e33534bb11e3bec1b72eb0d0e42f,2013-10-14T04:44:40,,0,0,0.0,0.0,6,6,6,,,
+Customer SLA Management (5.18),1899-12-30T00:00:00,e8412f7853e711e0b70d002564cb911c,0,0,2011-03-21T14:20:33,1899-12-30T00:00:00,565609dd856311e2a387984be1bad6a0,2013-03-05T03:10:43,"Customer SLA Management (5.18)
+This contribution replaces Customer Quality of Service & Service Level Agreement Management and Service Level Agreement Management, and is to be placed in the Customer Management X Assurance domain.
+
+New in 4.5",0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Leave,1899-12-30T00:00:00,e8e1d3020c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:01,1899-12-30T00:00:00,b2c7d6e10c0d11e3beaae4ef44b5706d,2013-08-28T04:53:23,The relationship between a CSP and a customer ends during this phase of the lifecycle.,0,0,0.0,0.0,6,6,6,,,
+Information Framework 13.5 Modification,1899-12-30T00:00:00,eb24abb2a49211e3810f6817294aebff,0,0,2014-03-05T12:20:30,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2014-03-05T12:20:30,,0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 20.5 Deletion,1899-12-30T00:00:00,ec3d076b33ff11eb80f9000d3a02ed0d,0,0,2020-12-01T18:06:34,1899-12-30T00:00:00,efaa146b659e11eb80fc000d3a02ed0d,2021-02-02T21:40:11,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Associate to L2 and Vertical L1,1899-12-30T00:00:00,edc8919eaaa311dd9438001de065480b,-1,0,2008-11-04T14:08:15,2008-11-04T14:35:34,565609dc856311e2a387984be1bad6a0,2013-03-05T03:06:25,,0,0,0.0,0.0,,,6,EVOLVEADMIN,EVOLVEADMIN,
+Application Framework 20.0 Addition,1899-12-30T00:00:00,eee68cf3a19411ea80f0000d3a02ed0d,0,0,2020-05-29T10:12:43,1899-12-30T00:00:00,efaa146a659e11eb80fc000d3a02ed0d,2021-02-02T21:39:05,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Observe,1899-12-30T00:00:00,ef3c3dcc0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:11,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:58,"The prospect or customer will be implicitly or explicitly be exposed to observe the offerings and services provided by a CSP. This observing of the CSP can happen based on any media and channels (digital, print or media).",0,0,0.0,0.0,6,6,6,,,
+Learn,1899-12-30T00:00:00,ef3c3dcd0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:16,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:54:45,During this phase the customer is learning further about the offering of the CSP. The learning could happen based on an inquiry directed to the CSP or by viewing feedback and reviews by other current or previous customers.,0,0,0.0,0.0,6,6,6,,,
+React,1899-12-30T00:00:00,ef3c3dce0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:21,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:12,"Once the customer has learnt and understood the offerings of a CSP, he will have a natural reaction to it. The reaction could potentially be positive which could lead him to progress the journey with the CSP.",0,0,0.0,0.0,6,6,6,,,
+Tibco Fulfillment Orchestration Suite,1899-12-30T00:00:00,f16b28b3c6c511e3b45c6817294aebff,0,0,2014-04-18T00:51:19,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:21:20,"Company Name Tibco
+Certification Type Product
+Product Name Tibco Fulfillment Orchestration Suite
+Product Version N/A
+Product Description ""The Fulfillment Orchestration Suite has been deployed and hardened by more than 80 CSPs around the world and integrated into a wide variety of IT systems and more than 300 network and value-added services (VAS) platforms. It has been deployed by emerging and leading telecom organizations in both nascent and mature markets. It consists of these interrelated applications:
+• TIBCO® Fulfillment Catalog that defines and manages the lifecycles of commercial and technical offerings.
+• TIBCO® Fulfillment Order Management that automates the orchestration of business delivery processes for commercial offers.
+• TIBCO® Fulfillment Provisioning that automates the activation of underlying network services and the allocation of network resources.
+Frameworx Certification results: http://www.tmforum.org/TIBCOFulfillmentOrchestration/14971/home.html""
+Company Website http://www.tibco.com/
+Product Website http://www.tibco.com/industries/telecommunications/fulfillment-orchestration/default.jsp
+Product Contacts sbeauvai@tibco.com, mdescall@tibco.com
+Frameworx Version 12.0
+Product Summary Results http://www.tmforum.org/TIBCOFulfillmentOrchestration/14971/home.html
+eTOM WEB Results http://www.tmforum.org/TIBCOFOSBusiness/14975/home.html
+SID WEB Results http://www.tmforum.org/TIBCOFOSInformation/14976/home.html
+Certification Report: http://www.tmforum.org/browse.aspx?catID=14975&linkID=52175&docID=20077",0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 12.5 Modification,1899-12-30T00:00:00,f26277e22ef111e2b37c984be1bad6a0,0,0,2012-11-16T02:51:51,1899-12-30T00:00:00,1b95aa0316da11e2b75d002564cb911c,2013-05-01T08:55:10,,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Application Framework 12.0 Deletion,1899-12-30T00:00:00,f363c31c67c311e1a5f7002564cb911c,0,0,2012-03-06T14:38:31,1899-12-30T00:00:00,be57dbf1632011e1aa36002564cb911c,2013-04-30T03:22:58,TAM 12.0=TAM 5.0,0,0,0.0,0.0,,,6,ADMIN,ADMIN,
+Oracle RSDOD Solution Conformance Results,1899-12-30T00:00:00,f5dce4f6c6c611e3b45c6817294aebff,0,0,2014-04-18T00:58:36,1899-12-30T00:00:00,9b44f8a451f611e3bedaf3b5dd50bdcc,2014-04-18T01:54:55,"Company Name Oracle
+Certification Type Solution
+Product Name Rapid Service Design and Order Delivery (RSDOD) Solution
+Product Version N/A
+Product Description ""RSDOD is a comprehensive solution consisting of Oracle Communications Order and Service Management (OSM), Oracle Communications Unified Inventory Management (UIM), Oracle Communications ASAP, Oracle Communications IP Service Activator (IPSA) and Oracle Communications Design Studio. Complementary products from the Oracle OSS portfolio include Oracle Communications MetaSolv Solution (MSS). Optional complementary products include the Information Framework (SID) certified Oracle Communications Data Model (OCDM).
+
+Certification Results: http://www.tmforum.org/OracleRapidService/14937/home.html ""
+Company Website http://www.oracle.com/index.html
+Product Website http://www.oracle.com/us/industries/communications/rapid-service-order-ds-1624095.pdf
+Product Contacts alexander.bruce@oracle.com, philippe.lalande@oracle.com, srinivas.padmanabharao@oracle.com
+Frameworx Version 12.0
+Product Summary Results http://www.tmforum.org/OracleRapidService/14937/home.html
+eTOM WEB Results http://www.tmforum.org/OracleRSDODSolution/14938/home.html
+SID WEB Results N/A
+Certification Report: http://www.tmforum.org/browse.aspx?catID=14938&linkID=52087&docID=19899",0,0,0.0,0.0,32,32,32,,,
+Business Process Framework 17.0 Modification,1899-12-30T00:00:00,f5e2d3d54eaa11e780ca000d3a02ed0d,0,0,2017-06-11T13:36:24,1899-12-30T00:00:00,3715a2425aa411e780cb000d3a02ed0d,2017-06-26T19:18:34,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Business Process Framework 17.0 Addition,1899-12-30T00:00:00,f5e2d3d94eaa11e780ca000d3a02ed0d,0,0,2017-06-11T13:36:25,1899-12-30T00:00:00,3715a2425aa411e780cb000d3a02ed0d,2017-06-26T19:18:52,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Request Detail,1899-12-30T00:00:00,f6349d990c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:23,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:52,This could be explicit step in the customers journey wherein he/she has initiatied interaction with the CSP to get details of the product and/or service in relation to him receiving it.,0,0,0.0,0.0,6,6,6,,,
+Reserve,1899-12-30T00:00:00,f6349d9a0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:25,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:56:06,The customer during the reserve sub phase is requesting the CSP to hold the inventory (most likely the physical inventory). The reservation in this case is prior to the actual formal selection and order submission step as at this time he is still evaluating the product and wanting to get an actual demonstration or viewing before he/she confirms.,0,0,0.0,0.0,6,6,6,,,
+Select Product/Service,1899-12-30T00:00:00,f6349d9b0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:28,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:56:20,The select product/service confirms the customers selection on the offering from the CSP.,0,0,0.0,0.0,6,6,6,,,
+Place Order,1899-12-30T00:00:00,f6349d9c0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:30,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:05,"As part of the choosing phase, the customer will then place the order with the CSP. The Place Order step includes the components of providing information for verification of the customers identity, making initial payment as needed; including deposit.",0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 18.0 Modification,1899-12-30T00:00:00,f6b546d07ad111e880d7000d3a02ed0d,0,0,2018-06-28T12:51:27,1899-12-30T00:00:00,03badc10a4b411e880d9000d3a02ed0d,2018-08-20T20:02:56,,0,0,0.0,0.0,,,,ATALMOR,ATALMOR,DFREED
+Application Framework 13.5 Deletion,1899-12-30T00:00:00,f85da47d2ba511e397730220e3370c01,0,0,2013-10-02T15:02:34,1899-12-30T00:00:00,8b21dab82ba511e397730220e3370c01,2013-10-02T15:02:34,,0,0,0.0,0.0,8,8,8,,,
+Receive,1899-12-30T00:00:00,fd26923b0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:35,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:55:19,The next phase in the lifecycle for the customer is around receiving the product/service he has selected. Depending upon the type of service this could be right at the time of the selection (i.e. in the case of wireless) or could be a separate step once some backend function/operation is completed.,0,0,0.0,0.0,6,6,6,,,
+Use,1899-12-30T00:00:00,fd26923c0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:39,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:56:37,The use phase of the lifecycle is where the customer has the most amount of interaction with the CSP. A lot of the experience of the customer is built around the usability and consumption of the services.,0,0,0.0,0.0,6,6,6,,,
+Review Usage,1899-12-30T00:00:00,fd26923d0c0d11e3beaae4ef44b5706d,0,0,2013-08-23T10:06:44,1899-12-30T00:00:00,e8e1d3050c0d11e3beaae4ef44b5706d,2013-08-28T04:56:13,"Based on the usage, the customer will review his/her usage. This could be post the use phase by viewing his transactions or during the use phase itself as he is implicitly observing the usage of his product/service with the CSP",0,0,0.0,0.0,6,6,6,,,
+Business Process Framework 14.5 Modification,1899-12-30T00:00:00,fd47dc316e8811e4b36f6817294aebff,0,0,2014-11-17T20:38:59,1899-12-30T00:00:00,e42421d86e5c11e4b36f6817294aebff,2014-11-17T20:38:59,,0,0,0.0,0.0,,,,ADMIN,ADMIN,ADMIN
